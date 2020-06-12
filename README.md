@@ -1,1 +1,3 @@
-# spotify-playlist-app
+<h1>Spotify Playlist App</h1>
+
+<p>Spotify currently hosts a "This is" playlist on each artist's page, playing the artist's most popular and well-known tracks. However, when it comes to accessing an artist's full anthology of music, it becomes more difficult to access. My latest project is a web application designed to create artist anthology Spotify playlists based on user specifications. Imagine a 600 track-long playlist of every single classical piece by Mozart, created automatically within minutes!</p>
